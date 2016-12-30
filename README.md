@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Cryptic Manifest Tool</h1>
 <h3 style="text-align: center;">Brought to you by John Cena Collective and the Plumber Task Force</h3>
 
-Brought to you by hard work, effort, and research, this tool lets you mess with Cryptic Titles without worrying about error reports getting you in trouble.
+Brought to you by hard work, effort, and research, this tool lets you analyse Cryptic game manifests.
 
 ##Acknowledgements
 
